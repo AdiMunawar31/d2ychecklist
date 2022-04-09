@@ -12,7 +12,7 @@ class ModuleScreen extends StatelessWidget {
         title: const Text('Pemrograman Dart'),
         actions: <Widget>[
           IconButton(
-            icon: const Icon(Icons.check_box),
+            icon: const Icon(Icons.done),
             onPressed: () {
               Navigator.push(
                 context,
