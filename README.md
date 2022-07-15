@@ -1,4 +1,4 @@
-# d2ychecklists
+# d2ychecklist
 
 A new Flutter projects.
 
